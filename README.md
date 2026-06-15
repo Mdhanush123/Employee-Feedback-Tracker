@@ -1,2 +1,29 @@
-# Employee-Feedback-Tracker
-Employee Feedback Tracker is a Python-based application that enables organizations to collect, manage, and analyze employee feedback through an intuitive GUI, secure database storage, and reporting features.
+# Employee Feedback Tracker
+
+## Overview
+Employee Feedback Tracker is a Python-based desktop application used to collect, manage, and analyze employee feedback efficiently.
+
+## Features
+- Employee Feedback Submission
+- SQLite Database Storage
+- User-Friendly GUI
+- Dashboard Ready
+- Report Management
+
+## Technologies Used
+- Python
+- Tkinter
+- SQLite
+- Pandas
+- Matplotlib
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run Project
+
+python main.py
+
+## Author
+Dhanush M
